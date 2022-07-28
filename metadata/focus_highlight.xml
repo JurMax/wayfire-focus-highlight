@@ -1,13 +1,8 @@
 <?xml version="1.0"?>
 <wayfire>
 	<plugin name="focus_highlight">
-	<_short>Focus Highlight</_short>
-	<category>Window Management</category>
-
-	<option name="test_key" type="activator">
-        <_short>This is a test</_short>
-        <default>&lt;super&gt; x</default>
-    </option>
-
+		<_short>Focus Highlight</_short>
+		<_long>Test text</_long>
+		<category>Desktop</category>
 	</plugin>
 </wayfire>
