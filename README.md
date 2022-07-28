@@ -1,3 +1,3 @@
 # wayfire-focus-highlight
 
-A simple plugin to highlight when focus switches between windows.
+A simple plugin for wayfire that highlights when focus switches between windows.
